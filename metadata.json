@@ -1,0 +1,8 @@
+{
+  "name": "Selah — Daily Bible & Streak Companion",
+  "description": "A daily Bible reading companion with personalized scripture passages, reading streaks, milestone progression, and encouraging reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
